@@ -77,3 +77,20 @@ Responsible for:
 
 This domain does not influence booking decisions and operates asynchronously.
 
+
+## Key Use Cases:
+
+-Create booking
+
+-Confirm booking
+
+-Cancel booking
+
+-Reschedule booking
+
+-Release expired holds
+
+Each use case represents a business action, not a technical operation.
+
+
+
